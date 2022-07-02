@@ -1,2 +1,2 @@
 # PESAG
-Elaboración de gráfcos
+Elaboración de gráficos y mapas. 
